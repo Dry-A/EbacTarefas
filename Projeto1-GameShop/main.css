@@ -6,7 +6,7 @@
 }
 
 /*estilo 2 */
-header{
+header {
     padding: 16px 0;
     background-color: #182c61;
     color: #ecf0f1;
@@ -31,8 +31,45 @@ header nav li a {
 }
 
 /*estilo 4*/
-header .container {
+header .container, section .container {
     display: flex;
     align-items: center;
     justify-content: space-between;
+}
+
+/*estilo 6*/
+.brands-list img {
+    height: 24px;
+}
+
+.brands-list  li {
+
+    display: inline;
+    margin-right: 8px;
+}
+
+section .container {
+    align-items: flex-start;
+}
+
+section {
+    padding: 24px 0;
+}
+
+section h2 {
+    margin-bottom: 16px;
+}
+
+section {
+    color: #182C61;
+}
+
+section p {
+    margin-bottom:  8px;
+}
+
+/*estilo 7 */
+
+.stor-front {
+    margin-right: 32px;
 }
