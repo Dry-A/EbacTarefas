@@ -4,11 +4,6 @@
   box-sizing: border-box;
 }
 
-header,
-section h2 {
-    font-family: 'Russo One', sans-serif;
-}
-
 body {
   font-family: "Outfit", sans-serif;
 }
@@ -17,6 +12,15 @@ header {
   padding: 16px 0;
   background-color: #182c61;
   color: #ecf0f1;
+}
+
+header h1,
+section h2,
+section h3,
+form button {
+  font-family: "Russo One", sans-serif;
+  font-weight: normal;
+
 }
 
 header nav li {
@@ -56,15 +60,16 @@ section .container {
   align-items: flex-start;
 }
 
-section {
-  padding: 24px 0;
-}
-
 section h2 {
   margin-bottom: 16px;
 }
 
+section h3 {
+    margin-bottom: 16px;
+}
+
 section {
+  padding: 24px 0;
   color: #182c61;
 }
 
@@ -85,10 +90,6 @@ section p {
   justify-content: space-between;
 }
 
-.contact-methods h3 {
-  margin-bottom: 16px;
-}
-
 form input,
 form textarea,
 form button {
@@ -96,6 +97,8 @@ form button {
   width: 320px;
   margin-bottom: 8px;
   padding: 8px;
+  background-color: #ecf0f1;
+  color: #182c61;
 }
 
 form textarea {
@@ -111,7 +114,7 @@ form button {
 }
 
 form button:hover {
-  background-color: #314e9e;
+  background-color: #ae0cc4;
 }
 
 input:focus,
@@ -130,4 +133,11 @@ textarea:focus {
 
 .social-links li a {
   text-decoration: none;
+}
+
+footer {
+    background-color: #182c61;
+    color: #ecf0f1;
+    padding: 16px 0;
+    text-align: center;
 }
