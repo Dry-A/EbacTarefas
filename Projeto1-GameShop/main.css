@@ -36,9 +36,6 @@ header .container, section .container {
     align-items: center;
     justify-content: space-between;
 }
-.sobre-a-loja {
-    margin-left: 26px;
-}
 
 /*estilo 6*/
 .brands-list img {
@@ -73,7 +70,7 @@ section p {
 
 /*estilo 7 */
 
-.stor-front {
+.store-front {
     margin-right: 32px;
 }
 
