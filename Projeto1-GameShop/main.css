@@ -111,3 +111,17 @@ form button:hover {
 input:focus, textarea:focus {
     outline-color: #182C61;
 }
+
+.social-links img {
+    height: 24px;
+}
+
+.social-links li {
+    display: inline;
+    margin-right: 8px;
+}
+
+.social-links li a {
+    text-decoration: none ;
+
+}
