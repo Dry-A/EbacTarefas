@@ -1,6 +1,8 @@
-Conteúdo do módulo
-• Apresentação do projeto
-• Criando o cabeçalho
-• Criando a seção “sobre”
-• Criação da seção de contato
-• Publicando o site
+## Projeto consiste em :
+• Apresentação do projeto <br>
+• Criação o cabeçalho <br>
+• Criação a seção “sobre” <br>
+• Criação da seção de contato <br>
+• Publicando o site com Vercel
+
+![loja-projeto1](https://github.com/Dry-A/EbacTarefas/assets/112403510/184ad914-7417-43cf-86ea-3050b508af7c)
