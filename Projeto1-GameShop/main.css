@@ -20,7 +20,6 @@ section h3,
 form button {
   font-family: "Russo One", sans-serif;
   font-weight: normal;
-
 }
 
 header nav li {
@@ -65,7 +64,7 @@ section h2 {
 }
 
 section h3 {
-    margin-bottom: 16px;
+  margin-bottom: 16px;
 }
 
 section {
@@ -136,8 +135,8 @@ textarea:focus {
 }
 
 footer {
-    background-color: #182c61;
-    color: #ecf0f1;
-    padding: 16px 0;
-    text-align: center;
+  background-color: #182c61;
+  color: #ecf0f1;
+  padding: 16px 0;
+  text-align: center;
 }
